@@ -1,0 +1,9 @@
+node_modules/
+.vscode/
+.idea/
+.nuxt/
+.output/
+dist/
+yarn.lock
+package-lock.json
+.output/
